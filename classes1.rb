@@ -18,6 +18,6 @@ class Book
 end
 
 
-book1=Book.new("Haunted","Potti")
+book1=Book.new("Haunted","Prashanth")
 puts book1.title
 puts book1.author
